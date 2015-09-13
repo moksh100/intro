@@ -1,4 +1,4 @@
-︠5582fd8f-1c81-4c61-b195-00ee2a5fdeddi︠
+︠5582fd8f-1c81-4c61-b195-00ee2a5fdeddis︠
 %html
 <center><h1>Sage Beginner's Workshop</h1></center>
 
@@ -15,7 +15,7 @@ Note that this worksheet is based upon an earlier one by Theron Hitchman. That w
 <h2>Worksheet Basics</h2>
 
 The first thing to note is that a worksheet is made up of "cells." These are where you will do your programming. To evaluate a cell, you press [Shift]+[Enter]. Try it now in the cell below. Add 5 and 4.
-︡1cfd9f95-e591-403e-8d16-fc77aea42917︡{"html":"<center><h1>Sage Beginner's Workshop</h1></center>\n\n<p>\nThis is an introduction to the basic functionality of Sage, with an emphasis on seeing how to handle a worksheet and how to get more detailed help. We will point out a little bit of the power that Sage has hiding in it, but this is <b>not</b> a full-fledged tutorial. Down at the bottom of the page you will find links to some more resources.\n</p>\n\n<hr />\n\nNote that this worksheet is based upon an earlier one by Theron Hitchman. That worksheet, <a href=\"http://uni.sagenb.org/home/pub/0/\">available here</a>, was designed for the Sage Notebook interface. This one is written with the SageMathCloud worksheet style in mind. Other contributors include: Harald Schilly, Gustav Delius.\n\n<hr />\n\n<h2>Worksheet Basics</h2>\n\nThe first thing to note is that a worksheet is made up of \"cells.\" These are where you will do your programming. To evaluate a cell, you press [Shift]+[Enter]. Try it now in the cell below. Add 5 and 4."}︡
+︡bf924d4d-780c-43d1-b0ec-2fa08a321363︡{"html":"<center><h1>Sage Beginner's Workshop</h1></center>\n\n<p>\nThis is an introduction to the basic functionality of Sage, with an emphasis on seeing how to handle a worksheet and how to get more detailed help. We will point out a little bit of the power that Sage has hiding in it, but this is <b>not</b> a full-fledged tutorial. Down at the bottom of the page you will find links to some more resources. (Borrowed from: <a href=\"https://github.com/sagemath/cloud-examples.git\">https://github.com/sagemath/cloud-examples.git</a>)\n</p>\n\n<hr />\n\nNote that this worksheet is based upon an earlier one by Theron Hitchman. That worksheet, <a href=\"http://uni.sagenb.org/home/pub/0/\">available here</a>, was designed for the Sage Notebook interface. This one is written with the SageMathCloud worksheet style in mind. Other contributors include: Harald Schilly, Gustav Delius.\n\n<hr />\n\n<h2>Worksheet Basics</h2>\n\nThe first thing to note is that a worksheet is made up of \"cells.\" These are where you will do your programming. To evaluate a cell, you press [Shift]+[Enter]. Try it now in the cell below. Add 5 and 4.\n"}︡
 ︠8cd31a74-73ca-434a-996d-b2339b8f3160︠
 5+4
 ︡d2750b35-fd98-4d38-9fa4-262b63c205ac︡
