@@ -1,2 +1,1 @@
-
-for f in {1..100}.dat; do touch $f; done
+for f in {1..100} ; do touch $(printf "%03d.dat" $f) ; done
